@@ -11,6 +11,16 @@
 .carousel > .carousel-inner img {
     height: 80vh;
 }
+.table-div {
+    width: 100%;
+    overflow: auto;
+}
+table {
+    min-width: 1200px;
+}
+table tr td a {
+    margin-right: 1rem;
+}
 
 @media screen and (max-width: 576px) {
     .cards .card {
